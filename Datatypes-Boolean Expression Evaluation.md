@@ -32,7 +32,7 @@ print(f"d: {d}")
 
 ## Output
 
-<img width="563" height="371" alt="Screenshot 2025-09-13 213158" src="https://github.com/user-attachments/assets/eb27f070-97d4-41eb-84f7-fb799a1ebb88" />
+<img width="542" height="362" alt="Screenshot 2025-09-13 213452" src="https://github.com/user-attachments/assets/bcf39943-96d9-44b7-b913-8ab741500cde" />
 
 
 ## Result
